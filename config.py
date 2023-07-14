@@ -7,7 +7,7 @@ import os
 
 # Path
 # ROOT_PATH = os.path.dirname(os.path.abspath(__file__))
-ROOT_PATH = r'D:\secComm'
+ROOT_PATH = r'D:\ISSRE'
 DATA_PATH = os.path.join(ROOT_PATH, 'data')
 APK_PATH = os.path.join(ROOT_PATH, 'apps')
 
